@@ -8,7 +8,6 @@
   just a couple of very basic analysis
   - Not really clear data is
 
-
 - Next Action:
   - Spend 30 more minutes to clean and analyse data
   - Download 3 more data set and do the same thing to
@@ -21,5 +20,47 @@
 
 
 - Stupid comments:
-  - I see this is a kind of pratice pandas and numpy and
+  - I see this is a kind of practicing pandas and numpy and
   learn graphlab rather than really analyze data.
+
+
+## 07:15 - 07:45pm, 10 Sept 2016
+
+- Top priority:
+  - Spend 30 more minutes to clean and analyze data
+  - Download 3 more data set and do the same thing to
+  see whether there is any common pattern between these
+  things
+
+- Plan:
+  - Download three more turnsile sets
+  - Do EDA with Graphlab
+
+- Observations:
+  - Period of time: 4 weeks
+
+- Next action:
+  - Continue to clean data
+  - Do some more visualizations: 10 (perhaps)
+  - Do some common model
+
+- Comments:
+  - Need more time to understand data
+
+
+## 8:15-9:15pm, 10 Sept 2016
+
+- Reading (60 min):
+  - Data Science in Business
+  - Free reading in 30 minutes > fine time-series-reading (local computer - 15 links/books/articles/courses)
+
+- Non-sense Comments:
+  - Why do I fall in love with Math? Why are sources I've
+  found are all stuffs with bunches of formula?
+
+- Next Action:
+  - To make sure about memory, re-read and continue to summarize "Data Science in Business"
+  - Come back to "ISLR" and "Element of Statistics"
+
+## 9:15 - 9:45, 10 Sept 2016
+  - play with folium
